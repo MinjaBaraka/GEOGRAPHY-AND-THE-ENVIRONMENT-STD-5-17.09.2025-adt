@@ -1,0 +1,653 @@
+[
+  {
+    "section_id": "pg001_sec001",
+    "href": "index.html",
+    "title": "Geography and the Environment",
+    "chapter_id": "pg001_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg003_sec001",
+    "href": "pg003_sec001.html",
+    "title": "Table of Contents",
+    "chapter_id": "pg003_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg005_sec001",
+    "href": "pg005_sec001.html",
+    "title": "Introduction",
+    "chapter_id": "pg005_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg007_sec001",
+    "href": "pg007_sec001.html",
+    "title": "Chapter One",
+    "chapter_id": "pg007_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg008_sec001",
+    "href": "pg008_sec001.html",
+    "title": "Natural resources",
+    "chapter_id": "pg008_n0006",
+    "level": 2
+  },
+  {
+    "section_id": "pg009_sec001",
+    "href": "pg009_sec001.html",
+    "title": "Minerals",
+    "chapter_id": "pg009_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg010_sec001",
+    "href": "pg010_sec001.html",
+    "title": "Forests",
+    "chapter_id": "pg010_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg011_sec001",
+    "href": "pg011_sec001.html",
+    "title": "Energy",
+    "chapter_id": "pg011_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg012_sec001",
+    "href": "pg012_sec001.html",
+    "title": "Exercise 1",
+    "chapter_id": "pg012_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg012_sec002",
+    "href": "pg012_sec002.html",
+    "title": "Distribution of natural resources in Tanzania",
+    "chapter_id": "pg012_n0020",
+    "level": 2
+  },
+  {
+    "section_id": "pg014_sec002",
+    "href": "pg014_sec002.html",
+    "title": "Distribution of water resources",
+    "chapter_id": "pg014_n0014",
+    "level": 3
+  },
+  {
+    "section_id": "pg015_sec001",
+    "href": "pg015_sec001.html",
+    "title": "Mtera dam",
+    "chapter_id": "pg015_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg016_sec001",
+    "href": "pg016_sec001.html",
+    "title": "Nyumba ya Mungu dam",
+    "chapter_id": "pg016_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg017_sec001",
+    "href": "pg017_sec001.html",
+    "title": "Hombolo dam",
+    "chapter_id": "pg017_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg018_sec001",
+    "href": "pg018_sec001.html",
+    "title": "Ruvuma River",
+    "chapter_id": "pg018_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg019_sec001",
+    "href": "pg019_sec001.html",
+    "title": "Lakes found in Tanzania",
+    "chapter_id": "pg019_n0008",
+    "level": 3
+  },
+  {
+    "section_id": "pg020_sec001",
+    "href": "pg020_sec001.html",
+    "title": "Lake Rukwa",
+    "chapter_id": "pg020_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg022_sec001",
+    "href": "pg022_sec001.html",
+    "title": "Indian Ocean",
+    "chapter_id": "pg022_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg028_sec001",
+    "href": "pg028_sec001.html",
+    "title": "Table 2: Some game reserves in Tanzania",
+    "chapter_id": "pg028_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg030_sec001",
+    "href": "pg030_sec001.html",
+    "title": "Activity 5",
+    "chapter_id": "pg030_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg030_sec002",
+    "href": "pg030_sec002.html",
+    "title": "Table 3. Some of the marine parks in Tanzania",
+    "chapter_id": "pg030_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg030_sec003",
+    "href": "pg030_sec003.html",
+    "title": "Exercise 2",
+    "chapter_id": "pg030_n0058",
+    "level": 3
+  },
+  {
+    "section_id": "pg031_sec001",
+    "href": "pg031_sec001.html",
+    "title": "Energy resource distribution",
+    "chapter_id": "pg031_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg032_sec001",
+    "href": "pg032_sec001.html",
+    "title": "Developments in the fishing sector",
+    "chapter_id": "pg032_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg033_sec001",
+    "href": "pg033_sec001.html",
+    "title": "Developments in the energy sector",
+    "chapter_id": "pg033_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg034_sec001",
+    "href": "pg034_sec001.html",
+    "title": "Developments in the tourism and wildlife management sector",
+    "chapter_id": "pg034_n0010",
+    "level": 3
+  },
+  {
+    "section_id": "pg035_sec001",
+    "href": "pg035_sec001.html",
+    "title": "Developments in the construction and infrastructure sector",
+    "chapter_id": "pg035_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg037_sec002",
+    "href": "pg037_sec002.html",
+    "title": "Exercise 3",
+    "chapter_id": "pg037_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg038_sec001",
+    "href": "pg038_sec001.html",
+    "title": "Revision exercise",
+    "chapter_id": "pg038_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg039_sec001",
+    "href": "pg039_sec001.html",
+    "title": "Section C: Short answers question",
+    "chapter_id": "pg039_n0038",
+    "level": 3
+  },
+  {
+    "section_id": "pg039_sec002",
+    "href": "pg039_sec002.html",
+    "title": "Vocabulary",
+    "chapter_id": "pg039_n0052",
+    "level": 3
+  },
+  {
+    "section_id": "pg041_sec001",
+    "href": "pg041_sec001.html",
+    "title": "Chapter Two",
+    "chapter_id": "pg041_n0003",
+    "level": 1
+  },
+  {
+    "section_id": "pg041_sec002",
+    "href": "pg041_sec002.html",
+    "title": "Concept of population distribution",
+    "chapter_id": "pg041_n0025",
+    "level": 2
+  },
+  {
+    "section_id": "pg042_sec001",
+    "href": "pg042_sec001.html",
+    "title": "Clustered population distribution",
+    "chapter_id": "pg042_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg043_sec001",
+    "href": "pg043_sec001.html",
+    "title": "Sparse population distribution",
+    "chapter_id": "pg043_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg044_sec001",
+    "href": "pg044_sec001.html",
+    "title": "Geographical factors",
+    "chapter_id": "pg044_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg045_sec001",
+    "href": "pg045_sec001.html",
+    "title": "Minerals",
+    "chapter_id": "pg045_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg046_sec001",
+    "href": "pg046_sec001.html",
+    "title": "Business and economic opportunities",
+    "chapter_id": "pg046_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg047_sec001",
+    "href": "pg047_sec001.html",
+    "title": "Activity 3",
+    "chapter_id": "pg047_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg047_sec002",
+    "href": "pg047_sec002.html",
+    "title": "Exercise 1",
+    "chapter_id": "pg047_n0008",
+    "level": 3
+  },
+  {
+    "section_id": "pg047_sec003",
+    "href": "pg047_sec003.html",
+    "title": "The Relationship between population distribution and the use of natural resources",
+    "chapter_id": "pg047_n0014",
+    "level": 2
+  },
+  {
+    "section_id": "pg048_sec001",
+    "href": "pg048_sec001.html",
+    "title": "Access and distribution of resources",
+    "chapter_id": "pg048_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg048_sec002",
+    "href": "pg048_sec002.html",
+    "title": "Activity 4",
+    "chapter_id": "pg048_n0029",
+    "level": 3
+  },
+  {
+    "section_id": "pg049_sec002",
+    "href": "pg049_sec002.html",
+    "title": "The relationship between population distribution and environmental conservation",
+    "chapter_id": "pg049_n0006",
+    "level": 2
+  },
+  {
+    "section_id": "pg050_sec001",
+    "href": "pg050_sec001.html",
+    "title": "Land degradation",
+    "chapter_id": "pg050_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg051_sec001",
+    "href": "pg051_sec001.html",
+    "title": "Providing environmental conservation education",
+    "chapter_id": "pg051_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg052_sec001",
+    "href": "pg052_sec001.html",
+    "title": "Exercise 2",
+    "chapter_id": "pg052_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg052_sec002",
+    "href": "pg052_sec002.html",
+    "title": "Revision exercise",
+    "chapter_id": "pg052_n0020",
+    "level": 2
+  },
+  {
+    "section_id": "pg053_sec002",
+    "href": "pg053_sec002.html",
+    "title": "Section B: Matching items",
+    "chapter_id": "pg053_n0024",
+    "level": 3
+  },
+  {
+    "section_id": "pg054_sec001",
+    "href": "pg054_sec001.html",
+    "title": "Section C: Short answers questions",
+    "chapter_id": "pg054_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg054_sec002",
+    "href": "pg054_sec002.html",
+    "title": "Vocabulary",
+    "chapter_id": "pg054_n0022",
+    "level": 3
+  },
+  {
+    "section_id": "pg055_sec001",
+    "href": "pg055_sec001.html",
+    "title": "Chapter Three",
+    "chapter_id": "pg055_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg056_sec001",
+    "href": "pg056_sec001.html",
+    "title": "Elements of weather",
+    "chapter_id": "pg056_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg057_sec002",
+    "href": "pg057_sec002.html",
+    "title": "Measuring air temperature using an analogue thermometer",
+    "chapter_id": "pg057_n0025",
+    "level": 3
+  },
+  {
+    "section_id": "pg059_sec001",
+    "href": "pg059_sec001.html",
+    "title": "Steps for measuring temperature using a maximum thermometer",
+    "chapter_id": "pg059_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg059_sec002",
+    "href": "pg059_sec002.html",
+    "title": "Activity 3",
+    "chapter_id": "pg059_n0039",
+    "level": 3
+  },
+  {
+    "section_id": "pg059_sec003",
+    "href": "pg059_sec003.html",
+    "title": "Exercise 1",
+    "chapter_id": "pg059_n0044",
+    "level": 3
+  },
+  {
+    "section_id": "pg060_sec002",
+    "href": "pg060_sec002.html",
+    "title": "Wind",
+    "chapter_id": "pg060_n0010",
+    "level": 3
+  },
+  {
+    "section_id": "pg061_sec001",
+    "href": "pg061_sec001.html",
+    "title": "Measuring wind speed",
+    "chapter_id": "pg061_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg062_sec002",
+    "href": "pg062_sec002.html",
+    "title": "Measuring wind direction",
+    "chapter_id": "pg062_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg062_sec005",
+    "href": "pg062_sec005.html",
+    "title": "Humidity",
+    "chapter_id": "pg062_n0038",
+    "level": 3
+  },
+  {
+    "section_id": "pg064_sec001",
+    "href": "pg064_sec001.html",
+    "title": "Measuring humidity",
+    "chapter_id": "pg064_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg065_sec002",
+    "href": "pg065_sec002.html",
+    "title": "Atmospheric pressure",
+    "chapter_id": "pg065_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg067_sec002",
+    "href": "pg067_sec002.html",
+    "title": "Rain",
+    "chapter_id": "pg067_n0019",
+    "level": 3
+  },
+  {
+    "section_id": "pg069_sec001",
+    "href": "pg069_sec001.html",
+    "title": "Sunlight",
+    "chapter_id": "pg069_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg070_sec001",
+    "href": "pg070_sec001.html",
+    "title": "Steps to follow when measuring sunlight",
+    "chapter_id": "pg070_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg071_sec001",
+    "href": "pg071_sec001.html",
+    "title": "Types of clouds",
+    "chapter_id": "pg071_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg072_sec001",
+    "href": "pg072_sec001.html",
+    "title": "Oktas",
+    "chapter_id": "pg072_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg074_sec001",
+    "href": "pg074_sec001.html",
+    "title": "Weather data logger",
+    "chapter_id": "pg074_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg075_sec002",
+    "href": "pg075_sec002.html",
+    "title": "Revision exercise",
+    "chapter_id": "pg075_n0008",
+    "level": 2
+  },
+  {
+    "section_id": "pg075_sec003",
+    "href": "pg075_sec003.html",
+    "title": "Section B: Short answers questions",
+    "chapter_id": "pg075_n0045",
+    "level": 3
+  },
+  {
+    "section_id": "pg076_sec002",
+    "href": "pg076_sec002.html",
+    "title": "Vocabulary",
+    "chapter_id": "pg076_n0084",
+    "level": 3
+  },
+  {
+    "section_id": "pg078_sec001",
+    "href": "pg078_sec001.html",
+    "title": "Chapter Four",
+    "chapter_id": "pg078_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg079_sec001",
+    "href": "pg079_sec001.html",
+    "title": "The relationship between weather and production activities",
+    "chapter_id": "pg079_n0013",
+    "level": 2
+  },
+  {
+    "section_id": "pg079_sec002",
+    "href": "pg079_sec002.html",
+    "title": "Activity 1",
+    "chapter_id": "pg079_n0033",
+    "level": 3
+  },
+  {
+    "section_id": "pg080_sec002",
+    "href": "pg080_sec002.html",
+    "title": "Activity 2",
+    "chapter_id": "pg080_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg080_sec003",
+    "href": "pg080_sec003.html",
+    "title": "Exercise 1",
+    "chapter_id": "pg080_n0008",
+    "level": 3
+  },
+  {
+    "section_id": "pg081_sec001",
+    "href": "pg081_sec001.html",
+    "title": "Livestock keeping",
+    "chapter_id": "pg081_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg082_sec001",
+    "href": "pg082_sec001.html",
+    "title": "Industries",
+    "chapter_id": "pg082_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg083_sec002",
+    "href": "pg083_sec002.html",
+    "title": "Mining",
+    "chapter_id": "pg083_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg084_sec001",
+    "href": "pg084_sec001.html",
+    "title": "Energy",
+    "chapter_id": "pg084_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg085_sec001",
+    "href": "pg085_sec001.html",
+    "title": "Ways to address the effects of weather changes",
+    "chapter_id": "pg085_n0019",
+    "level": 2
+  },
+  {
+    "section_id": "pg085_sec002",
+    "href": "pg085_sec002.html",
+    "title": "Exercise 4",
+    "chapter_id": "pg085_n0029",
+    "level": 3
+  },
+  {
+    "section_id": "pg086_sec001",
+    "href": "pg086_sec001.html",
+    "title": "Sustainable farming",
+    "chapter_id": "pg086_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg087_sec001",
+    "href": "pg087_sec001.html",
+    "title": "Building resilient structures",
+    "chapter_id": "pg087_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg087_sec002",
+    "href": "pg087_sec002.html",
+    "title": "Activity 8",
+    "chapter_id": "pg087_n0017",
+    "level": 3
+  },
+  {
+    "section_id": "pg087_sec003",
+    "href": "pg087_sec003.html",
+    "title": "Revision exercise",
+    "chapter_id": "pg087_n0021",
+    "level": 2
+  },
+  {
+    "section_id": "pg088_sec002",
+    "href": "pg088_sec002.html",
+    "title": "Section B: Matching item questions",
+    "chapter_id": "pg088_n0042",
+    "level": 3
+  },
+  {
+    "section_id": "pg089_sec001",
+    "href": "pg089_sec001.html",
+    "title": "Section C: Short answer questions",
+    "chapter_id": "pg089_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg089_sec002",
+    "href": "pg089_sec002.html",
+    "title": "Vocabulary",
+    "chapter_id": "pg089_n0017",
+    "level": 3
+  },
+  {
+    "section_id": "pg090_sec001",
+    "href": "pg090_sec001.html",
+    "title": "Test",
+    "chapter_id": "pg090_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg092_sec001",
+    "href": "pg092_sec001.html",
+    "title": "Section B: Short answer questions",
+    "chapter_id": "pg092_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg092_sec002",
+    "href": "pg092_sec002.html",
+    "title": "Section C:",
+    "chapter_id": "pg092_n0010",
+    "level": 2
+  }
+]
