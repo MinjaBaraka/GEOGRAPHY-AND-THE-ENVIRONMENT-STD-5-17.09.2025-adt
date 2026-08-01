@@ -486,6 +486,12 @@ Update both:
 | `qz{NNN}_o{N}.mp3` | Quiz option read-aloud |
 | `qz{NNN}_o{N}_exp.mp3` | Quiz explanation read-aloud |
 
+### Narration Voice Consistency
+
+- Match the book's existing English-UK male narrator for every new or regenerated `en-GB` read-aloud file.
+- Use the Microsoft neural voice `en-GB-RyanNeural` at its default rate and pitch. Preserve the source audio format: mono, 24 kHz, encoded at 128 kbps. The previously used `Microsoft David Desktop` settings do not match this book's narrator.
+- Before delivery, compare at least one unchanged narration clip with one regenerated clip and confirm that every affected `audios.json` entry has a valid MP3.
+
 ## Important: What Not to Edit
 
 - **`assets/base.bundle.min.js`** and **`assets/modules/`** — compiled JS runtime; do not modify

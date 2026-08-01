@@ -7,10 +7,24 @@
     "level": 1
   },
   {
+    "section_id": "pg002_sec001",
+    "href": "pg002_sec001.html",
+    "title": "Copyright",
+    "chapter_id": "pg002_n0001",
+    "level": 1
+  },
+  {
     "section_id": "pg003_sec001",
     "href": "pg003_sec001.html",
     "title": "Table of Contents",
     "chapter_id": "pg003_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg004_sec001",
+    "href": "pg004_sec001.html",
+    "title": "Acknowledgements",
+    "chapter_id": "pg004_n0001",
     "level": 1
   },
   {
@@ -294,13 +308,6 @@
     "level": 3
   },
   {
-    "section_id": "pg048_sec002",
-    "href": "pg048_sec002.html",
-    "title": "Activity 4",
-    "chapter_id": "pg048_n0029",
-    "level": 3
-  },
-  {
     "section_id": "pg049_sec002",
     "href": "pg049_sec002.html",
     "title": "The relationship between population distribution and environmental conservation",
@@ -513,15 +520,15 @@
   {
     "section_id": "pg079_sec001",
     "href": "pg079_sec001.html",
-    "title": "The relationship between weather and production activities",
-    "chapter_id": "pg079_n0013",
+    "title": "Activity 1",
+    "chapter_id": "pg079_n0033",
     "level": 2
   },
   {
     "section_id": "pg079_sec002",
     "href": "pg079_sec002.html",
-    "title": "Activity 1",
-    "chapter_id": "pg079_n0033",
+    "title": "The relationship between weather and production activities",
+    "chapter_id": "pg079_n0013",
     "level": 3
   },
   {
@@ -546,8 +553,8 @@
     "level": 3
   },
   {
-    "section_id": "pg082_sec001",
-    "href": "pg082_sec001.html",
+    "section_id": "pg082_sec002",
+    "href": "pg082_sec002.html",
     "title": "Industries",
     "chapter_id": "pg082_n0006",
     "level": 3
@@ -572,13 +579,6 @@
     "title": "Ways to address the effects of weather changes",
     "chapter_id": "pg085_n0019",
     "level": 2
-  },
-  {
-    "section_id": "pg085_sec002",
-    "href": "pg085_sec002.html",
-    "title": "Exercise 4",
-    "chapter_id": "pg085_n0029",
-    "level": 3
   },
   {
     "section_id": "pg086_sec001",

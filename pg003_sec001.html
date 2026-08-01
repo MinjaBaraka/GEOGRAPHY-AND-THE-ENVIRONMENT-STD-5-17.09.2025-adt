@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Geography and the Environment Pupil’s Book Standard Five</title>
     <meta name="title-id" content="pg003_sec001" />
-    <meta name="page-section-id" content="2" />
+    <meta name="page-section-id" content="3" />
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
@@ -16,6 +16,29 @@
 
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible','Merriweather',sans-serif; }
+      .toc-list { display: grid; gap: 1rem; margin: 0; padding: 0; list-style: none; }
+      .toc-row { display: grid; grid-template-columns: minmax(0, auto) minmax(2rem, 1fr) 3.5rem; align-items: end; column-gap: .55rem; line-height: 1.25; }
+      .toc-title { min-width: 0; }
+      .toc-leader { min-width: 2rem; border-bottom: 3px dotted currentColor; transform: translateY(-.28em); opacity: .85; }
+      .toc-page { min-width: 3ch; text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+      .toc-major { color: #115e75; font-size: 1.5rem; font-weight: 600; }
+      .toc-entry { color: #262626; font-size: 1.3125rem; }
+      .toc-entry .toc-leader { border-bottom-width: 2px; color: #525252; }
+      .toc-chapter { margin-top: .5rem; }
+      @media (max-width: 1024px) {
+        .toc-list { gap: .9rem; }
+        .toc-row { grid-template-columns: minmax(0, auto) minmax(1.5rem, 1fr) 3.25rem; }
+        .toc-major { font-size: 1.375rem; }
+        .toc-entry { font-size: 1.18rem; }
+      }
+      @media (max-width: 640px) {
+        .toc-list { gap: .75rem; }
+        .toc-row { grid-template-columns: minmax(0, auto) minmax(1rem, 1fr) 2.5rem; column-gap: .35rem; }
+        .toc-major { font-size: 1.05rem; }
+        .toc-entry { font-size: .92rem; }
+        .toc-leader { min-width: 1rem; border-bottom-width: 2px; transform: translateY(-.22em); }
+        .toc-chapter { margin-top: .3rem; }
+      }
     </style></head>
 
 <body class="min-h-screen flex items-center justify-center">
@@ -31,19 +54,19 @@
     </div>
 
     <div class="relative z-10 mx-auto mt-16 w-full max-w-[980px] px-20 pb-56 max-lg:mt-12 max-lg:max-w-[760px] max-lg:px-8 max-lg:pb-52 max-sm:mt-8 max-sm:px-1 max-sm:pb-56">
-      <ul class="space-y-4 max-lg:space-y-4 max-sm:space-y-3">
-        <li class="flex items-end gap-2 text-[24px] font-semibold leading-tight text-teal-800 max-lg:text-[22px] max-sm:text-[18px]"><span data-id="pg003_n0005">Table of Contents iii</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[3px] border-dotted border-teal-700 max-sm:hidden"></span></li>
-        <li class="flex items-end gap-2 text-[24px] font-semibold leading-tight text-teal-800 max-lg:text-[22px] max-sm:text-[18px]"><span data-id="pg003_n0007">Acknowledgements iv</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[3px] border-dotted border-teal-700 max-sm:hidden"></span></li>
-        <li class="flex items-end gap-2 text-[24px] font-semibold leading-tight text-teal-800 max-lg:text-[22px] max-sm:text-[18px]"><span data-id="pg003_n0009">Introduction v</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[3px] border-dotted border-teal-700 max-sm:hidden"></span></li>
-        <li class="flex items-end gap-2 text-[24px] font-semibold leading-tight text-teal-800 max-lg:text-[22px] max-sm:text-[18px]"><span data-id="pg003_n0011">Chapter One 1</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[3px] border-dotted border-teal-700 max-sm:hidden"></span></li>
-        <li class="flex items-end gap-2 text-[21px] leading-tight text-neutral-800 max-lg:text-[20px] max-sm:text-[15px]"><span data-id="pg003_n0013">The natural resources of Tanzania 1</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[2px] border-dotted border-neutral-500 max-sm:hidden"></span></li>
-        <li class="flex items-end gap-2 pt-2 text-[24px] font-semibold leading-tight text-teal-800 max-lg:text-[22px] max-sm:text-[18px]"><span data-id="pg003_n0015">Chapter Two 35</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[3px] border-dotted border-teal-700 max-sm:hidden"></span></li>
-        <li class="flex items-end gap-2 text-[21px] leading-tight text-neutral-800 max-lg:text-[20px] max-sm:text-[15px]"><span data-id="pg003_n0017">Population distribution and the use of natural resources 35</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[2px] border-dotted border-neutral-500 max-sm:hidden"></span></li>
-        <li class="flex items-end gap-2 pt-2 text-[24px] font-semibold leading-tight text-teal-800 max-lg:text-[22px] max-sm:text-[18px]"><span data-id="pg003_n0019">Chapter Three 49</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[3px] border-dotted border-teal-700 max-sm:hidden"></span></li>
-        <li class="flex items-end gap-2 text-[21px] leading-tight text-neutral-800 max-lg:text-[20px] max-sm:text-[15px]"><span data-id="pg003_n0021">Weather 49</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[2px] border-dotted border-neutral-500 max-sm:hidden"></span></li>
-        <li class="flex items-end gap-2 pt-2 text-[24px] font-semibold leading-tight text-teal-800 max-lg:text-[22px] max-sm:text-[18px]"><span data-id="pg003_n0023">Chapter Four 72</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[3px] border-dotted border-teal-700 max-sm:hidden"></span></li>
-        <li class="flex items-end gap-2 text-[21px] leading-tight text-neutral-800 max-lg:text-[20px] max-sm:text-[15px]"><span data-id="pg003_n0025">The relationship between weather and production activities 72</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[2px] border-dotted border-neutral-500 max-sm:hidden"></span></li>
-        <li class="flex items-end gap-2 pt-2 text-[24px] font-semibold leading-tight text-teal-800 max-lg:text-[22px] max-sm:text-[18px]"><span data-id="pg003_n0027">Test 84</span><span aria-hidden="true" class="mb-1 flex-1 border-b-[3px] border-dotted border-teal-700 max-sm:hidden"></span></li>
+      <ul class="toc-list">
+        <li class="toc-row toc-major"><span data-id="pg003_n0005" class="toc-title">Table of Contents</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0006" class="toc-page">iii</span></li>
+        <li class="toc-row toc-major"><span data-id="pg003_n0007" class="toc-title">Acknowledgements</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0008" class="toc-page">iv</span></li>
+        <li class="toc-row toc-major"><span data-id="pg003_n0009" class="toc-title">Introduction</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0010" class="toc-page">v</span></li>
+        <li class="toc-row toc-major"><span data-id="pg003_n0011" class="toc-title">Chapter One</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0012" class="toc-page">1</span></li>
+        <li class="toc-row toc-entry"><span data-id="pg003_n0013" class="toc-title">The natural resources of Tanzania</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0014" class="toc-page">1</span></li>
+        <li class="toc-row toc-major toc-chapter"><span data-id="pg003_n0015" class="toc-title">Chapter Two</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0016" class="toc-page">35</span></li>
+        <li class="toc-row toc-entry"><span data-id="pg003_n0017" class="toc-title">Population distribution and the use of natural resources</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0018" class="toc-page">35</span></li>
+        <li class="toc-row toc-major toc-chapter"><span data-id="pg003_n0019" class="toc-title">Chapter Three</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0020" class="toc-page">49</span></li>
+        <li class="toc-row toc-entry"><span data-id="pg003_n0021" class="toc-title">Weather</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0022" class="toc-page">49</span></li>
+        <li class="toc-row toc-major toc-chapter"><span data-id="pg003_n0023" class="toc-title">Chapter Four</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0024" class="toc-page">72</span></li>
+        <li class="toc-row toc-entry"><span data-id="pg003_n0025" class="toc-title">The relationship between weather and production activities</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0026" class="toc-page">72</span></li>
+        <li class="toc-row toc-major toc-chapter"><span data-id="pg003_n0027" class="toc-title">Test</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0028" class="toc-page">84</span></li>
       </ul>
     </div>
   </section>
