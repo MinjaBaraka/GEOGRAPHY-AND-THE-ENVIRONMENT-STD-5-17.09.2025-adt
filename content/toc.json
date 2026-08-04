@@ -37,9 +37,16 @@
   {
     "section_id": "pg007_sec001",
     "href": "pg007_sec001.html",
-    "title": "Chapter One",
+    "title": "Chapter One: The natural resources of Tanzania",
     "chapter_id": "pg007_n0002",
     "level": 1
+  },
+  {
+    "section_id": "pg007_sec002",
+    "href": "pg007_sec002.html",
+    "title": "Activity 1",
+    "chapter_id": "pg007_n0028",
+    "level": 3
   },
   {
     "section_id": "pg008_sec001",
@@ -47,6 +54,13 @@
     "title": "Natural resources",
     "chapter_id": "pg008_n0006",
     "level": 2
+  },
+  {
+    "section_id": "pg008_sec002",
+    "href": "pg008_sec002.html",
+    "title": "Activity 2",
+    "chapter_id": "pg008_n0033",
+    "level": 3
   },
   {
     "section_id": "pg009_sec001",
@@ -82,6 +96,13 @@
     "title": "Distribution of natural resources in Tanzania",
     "chapter_id": "pg012_n0020",
     "level": 2
+  },
+  {
+    "section_id": "pg014_sec001",
+    "href": "pg014_sec001.html",
+    "title": "Activity 3",
+    "chapter_id": "pg014_n0003",
+    "level": 3
   },
   {
     "section_id": "pg014_sec002",
@@ -133,6 +154,20 @@
     "level": 3
   },
   {
+    "section_id": "pg021_sec001",
+    "href": "pg021_sec001.html",
+    "title": "Figure 9: Distribution of rivers and lakes in Tanzania",
+    "chapter_id": "pg021_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg021_sec002",
+    "href": "pg021_sec002.html",
+    "title": "Activity 4",
+    "chapter_id": "pg021_n0009",
+    "level": 3
+  },
+  {
     "section_id": "pg022_sec001",
     "href": "pg022_sec001.html",
     "title": "Indian Ocean",
@@ -151,6 +186,13 @@
     "href": "pg028_sec001.html",
     "title": "Table 2: Some game reserves in Tanzania",
     "chapter_id": "pg028_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg029_sec001",
+    "href": "pg029_sec001.html",
+    "title": "Figure 10: National parks, game reserves and conservation area in Tanzania",
+    "chapter_id": "pg029_n0002",
     "level": 3
   },
   {
@@ -210,6 +252,20 @@
     "level": 3
   },
   {
+    "section_id": "pg036_sec001",
+    "href": "pg036_sec001.html",
+    "title": "Transport infrastructure: bridge and airport",
+    "chapter_id": "pg036_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg037_sec001",
+    "href": "pg037_sec001.html",
+    "title": "Figure 13: Tanzania Standard Gauge Railway",
+    "chapter_id": "pg037_n0002",
+    "level": 3
+  },
+  {
     "section_id": "pg037_sec002",
     "href": "pg037_sec002.html",
     "title": "Exercise 3",
@@ -222,6 +278,13 @@
     "title": "Revision exercise",
     "chapter_id": "pg038_n0002",
     "level": 2
+  },
+  {
+    "section_id": "pg038_sec002",
+    "href": "pg038_sec002.html",
+    "title": "Section B: Matching items questions",
+    "chapter_id": "pg038_n0059",
+    "level": 3
   },
   {
     "section_id": "pg039_sec001",
@@ -238,9 +301,16 @@
     "level": 3
   },
   {
+    "section_id": "pg040_sec001",
+    "href": "pg040_sec001.html",
+    "title": "Human resources",
+    "chapter_id": "pg040_n0004",
+    "level": 3
+  },
+  {
     "section_id": "pg041_sec001",
     "href": "pg041_sec001.html",
-    "title": "Chapter Two",
+    "title": "Chapter Two: Population distribution and the use of natural resources",
     "chapter_id": "pg041_n0003",
     "level": 1
   },
@@ -263,6 +333,13 @@
     "href": "pg043_sec001.html",
     "title": "Sparse population distribution",
     "chapter_id": "pg043_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg043_sec002",
+    "href": "pg043_sec002.html",
+    "title": "Activity 1: Factors affecting population distribution",
+    "chapter_id": "pg043_n0019",
     "level": 3
   },
   {
@@ -305,6 +382,13 @@
     "href": "pg048_sec001.html",
     "title": "Access and distribution of resources",
     "chapter_id": "pg048_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg049_sec001",
+    "href": "pg049_sec001.html",
+    "title": "Activity 5",
+    "chapter_id": "pg049_n0003",
     "level": 3
   },
   {
@@ -366,9 +450,16 @@
   {
     "section_id": "pg055_sec001",
     "href": "pg055_sec001.html",
-    "title": "Chapter Three",
+    "title": "Chapter Three: Weather",
     "chapter_id": "pg055_n0002",
     "level": 1
+  },
+  {
+    "section_id": "pg055_sec002",
+    "href": "pg055_sec002.html",
+    "title": "Activity 1",
+    "chapter_id": "pg055_n0031",
+    "level": 3
   },
   {
     "section_id": "pg056_sec001",
@@ -376,6 +467,13 @@
     "title": "Elements of weather",
     "chapter_id": "pg056_n0002",
     "level": 2
+  },
+  {
+    "section_id": "pg057_sec001",
+    "href": "pg057_sec001.html",
+    "title": "Activity 2",
+    "chapter_id": "pg057_n0003",
+    "level": 3
   },
   {
     "section_id": "pg057_sec002",
@@ -420,10 +518,31 @@
     "level": 3
   },
   {
+    "section_id": "pg062_sec001",
+    "href": "pg062_sec001.html",
+    "title": "Activity 4",
+    "chapter_id": "pg062_n0003",
+    "level": 3
+  },
+  {
     "section_id": "pg062_sec002",
     "href": "pg062_sec002.html",
     "title": "Measuring wind direction",
     "chapter_id": "pg062_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg062_sec003",
+    "href": "pg062_sec003.html",
+    "title": "Activity 5",
+    "chapter_id": "pg062_n0027",
+    "level": 3
+  },
+  {
+    "section_id": "pg062_sec004",
+    "href": "pg062_sec004.html",
+    "title": "Exercise 2",
+    "chapter_id": "pg062_n0032",
     "level": 3
   },
   {
@@ -434,10 +553,31 @@
     "level": 3
   },
   {
+    "section_id": "pg063_sec001",
+    "href": "pg063_sec001.html",
+    "title": "Figure 5: Types of hygrometers",
+    "chapter_id": "pg063_n0023",
+    "level": 3
+  },
+  {
     "section_id": "pg064_sec001",
     "href": "pg064_sec001.html",
     "title": "Measuring humidity",
     "chapter_id": "pg064_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg064_sec002",
+    "href": "pg064_sec002.html",
+    "title": "Activity 6",
+    "chapter_id": "pg064_n0043",
+    "level": 3
+  },
+  {
+    "section_id": "pg065_sec001",
+    "href": "pg065_sec001.html",
+    "title": "Exercise 3",
+    "chapter_id": "pg065_n0003",
     "level": 3
   },
   {
@@ -448,10 +588,38 @@
     "level": 3
   },
   {
+    "section_id": "pg066_sec001",
+    "href": "pg066_sec001.html",
+    "title": "Activity 7: Measuring atmospheric pressure",
+    "chapter_id": "pg065_n0020",
+    "level": 3
+  },
+  {
+    "section_id": "pg067_sec001",
+    "href": "pg067_sec001.html",
+    "title": "Activity 8",
+    "chapter_id": "pg067_n0002",
+    "level": 3
+  },
+  {
     "section_id": "pg067_sec002",
     "href": "pg067_sec002.html",
     "title": "Rain",
     "chapter_id": "pg067_n0019",
+    "level": 3
+  },
+  {
+    "section_id": "pg068_sec001",
+    "href": "pg068_sec001.html",
+    "title": "Activity 9",
+    "chapter_id": "pg068_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg068_sec002",
+    "href": "pg068_sec002.html",
+    "title": "Exercise 4",
+    "chapter_id": "pg068_n0013",
     "level": 3
   },
   {
@@ -478,8 +646,29 @@
   {
     "section_id": "pg072_sec001",
     "href": "pg072_sec001.html",
-    "title": "Oktas",
-    "chapter_id": "pg072_n0004",
+    "title": "Figure 10: Oktas chart",
+    "chapter_id": "pg072_n0075",
+    "level": 3
+  },
+  {
+    "section_id": "pg073_sec001",
+    "href": "pg073_sec001.html",
+    "title": "Figure 12: Nephoscope",
+    "chapter_id": "pg073_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg073_sec002",
+    "href": "pg073_sec002.html",
+    "title": "Activity 10",
+    "chapter_id": "pg073_n0008",
+    "level": 3
+  },
+  {
+    "section_id": "pg073_sec003",
+    "href": "pg073_sec003.html",
+    "title": "Exercise 5",
+    "chapter_id": "pg073_n0015",
     "level": 3
   },
   {
@@ -513,7 +702,7 @@
   {
     "section_id": "pg078_sec001",
     "href": "pg078_sec001.html",
-    "title": "Chapter Four",
+    "title": "Chapter Four: Weather and production activities",
     "chapter_id": "pg078_n0002",
     "level": 1
   },
@@ -553,6 +742,20 @@
     "level": 3
   },
   {
+    "section_id": "pg081_sec002",
+    "href": "pg081_sec002.html",
+    "title": "Fishing",
+    "chapter_id": "pg081_n0020",
+    "level": 3
+  },
+  {
+    "section_id": "pg082_sec001",
+    "href": "pg082_sec001.html",
+    "title": "Activity 4 and Exercise 2",
+    "chapter_id": "pg082_n0022",
+    "level": 3
+  },
+  {
     "section_id": "pg082_sec002",
     "href": "pg082_sec002.html",
     "title": "Industries",
@@ -560,10 +763,31 @@
     "level": 3
   },
   {
+    "section_id": "pg083_sec001",
+    "href": "pg083_sec001.html",
+    "title": "Activity 5",
+    "chapter_id": "pg083_n0002",
+    "level": 3
+  },
+  {
     "section_id": "pg083_sec002",
     "href": "pg083_sec002.html",
     "title": "Mining",
     "chapter_id": "pg083_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg083_sec003",
+    "href": "pg083_sec003.html",
+    "title": "Activity 6",
+    "chapter_id": "pg083_n0019",
+    "level": 3
+  },
+  {
+    "section_id": "pg083_sec004",
+    "href": "pg083_sec004.html",
+    "title": "Exercise 3",
+    "chapter_id": "pg083_n0023",
     "level": 3
   },
   {
@@ -632,7 +856,7 @@
   {
     "section_id": "pg090_sec001",
     "href": "pg090_sec001.html",
-    "title": "Test",
+    "title": "Final Test",
     "chapter_id": "pg090_n0002",
     "level": 1
   },
@@ -646,7 +870,7 @@
   {
     "section_id": "pg092_sec002",
     "href": "pg092_sec002.html",
-    "title": "Section C:",
+    "title": "Section C: Matching items",
     "chapter_id": "pg092_n0010",
     "level": 2
   }

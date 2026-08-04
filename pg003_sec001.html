@@ -25,6 +25,10 @@
       .toc-entry { color: #262626; font-size: 1.3125rem; }
       .toc-entry .toc-leader { border-bottom-width: 2px; color: #525252; }
       .toc-chapter { margin-top: .5rem; }
+      .toc-link { color: inherit; text-decoration: none; border-radius: .45rem; padding: .2rem .25rem; }
+      .toc-link:visited { color: inherit; }
+      .toc-link:hover .toc-title { text-decoration: underline; text-underline-offset: .18em; }
+      .toc-link:focus-visible { outline: 3px solid #0e7490; outline-offset: 3px; }
       @media (max-width: 1024px) {
         .toc-list { gap: .9rem; }
         .toc-row { grid-template-columns: minmax(0, auto) minmax(1.5rem, 1fr) 3.25rem; }
@@ -55,18 +59,18 @@
 
     <div class="relative z-10 mx-auto mt-16 w-full max-w-[980px] px-20 pb-56 max-lg:mt-12 max-lg:max-w-[760px] max-lg:px-8 max-lg:pb-52 max-sm:mt-8 max-sm:px-1 max-sm:pb-56">
       <ul class="toc-list">
-        <li class="toc-row toc-major"><span data-id="pg003_n0005" class="toc-title">Table of Contents</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0006" class="toc-page">iii</span></li>
-        <li class="toc-row toc-major"><span data-id="pg003_n0007" class="toc-title">Acknowledgements</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0008" class="toc-page">iv</span></li>
-        <li class="toc-row toc-major"><span data-id="pg003_n0009" class="toc-title">Introduction</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0010" class="toc-page">v</span></li>
-        <li class="toc-row toc-major"><span data-id="pg003_n0011" class="toc-title">Chapter One</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0012" class="toc-page">1</span></li>
-        <li class="toc-row toc-entry"><span data-id="pg003_n0013" class="toc-title">The natural resources of Tanzania</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0014" class="toc-page">1</span></li>
-        <li class="toc-row toc-major toc-chapter"><span data-id="pg003_n0015" class="toc-title">Chapter Two</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0016" class="toc-page">35</span></li>
-        <li class="toc-row toc-entry"><span data-id="pg003_n0017" class="toc-title">Population distribution and the use of natural resources</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0018" class="toc-page">35</span></li>
-        <li class="toc-row toc-major toc-chapter"><span data-id="pg003_n0019" class="toc-title">Chapter Three</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0020" class="toc-page">49</span></li>
-        <li class="toc-row toc-entry"><span data-id="pg003_n0021" class="toc-title">Weather</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0022" class="toc-page">49</span></li>
-        <li class="toc-row toc-major toc-chapter"><span data-id="pg003_n0023" class="toc-title">Chapter Four</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0024" class="toc-page">72</span></li>
-        <li class="toc-row toc-entry"><span data-id="pg003_n0025" class="toc-title">The relationship between weather and production activities</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0026" class="toc-page">72</span></li>
-        <li class="toc-row toc-major toc-chapter"><span data-id="pg003_n0027" class="toc-title">Test</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0028" class="toc-page">84</span></li>
+        <li><a class="toc-row toc-major toc-link" href="pg003_sec001.html" aria-label="Open Table of Contents, website page 3"><span data-id="pg003_n0005" class="toc-title">Table of Contents</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0006" class="toc-page">3</span></a></li>
+        <li><a class="toc-row toc-major toc-link" href="pg004_sec001.html" aria-label="Open Acknowledgements, website page 4"><span data-id="pg003_n0007" class="toc-title">Acknowledgements</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0008" class="toc-page">4</span></a></li>
+        <li><a class="toc-row toc-major toc-link" href="pg005_sec001.html" aria-label="Open Introduction, website page 5"><span data-id="pg003_n0009" class="toc-title">Introduction</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0010" class="toc-page">5</span></a></li>
+        <li><a class="toc-row toc-major toc-link" href="pg007_sec001.html" aria-label="Open Chapter One, website page 7"><span data-id="pg003_n0011" class="toc-title">Chapter One</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0012" class="toc-page">7</span></a></li>
+        <li><a class="toc-row toc-entry toc-link" href="pg007_sec001.html" aria-label="Open The natural resources of Tanzania, website page 7"><span data-id="pg003_n0013" class="toc-title">The natural resources of Tanzania</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0014" class="toc-page">7</span></a></li>
+        <li><a class="toc-row toc-major toc-chapter toc-link" href="pg041_sec001.html" aria-label="Open Chapter Two, website page 47"><span data-id="pg003_n0015" class="toc-title">Chapter Two</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0016" class="toc-page">47</span></a></li>
+        <li><a class="toc-row toc-entry toc-link" href="pg041_sec001.html" aria-label="Open Population distribution and the use of natural resources, website page 47"><span data-id="pg003_n0017" class="toc-title">Population distribution and the use of natural resources</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0018" class="toc-page">47</span></a></li>
+        <li><a class="toc-row toc-major toc-chapter toc-link" href="pg055_sec001.html" aria-label="Open Chapter Three, website page 68"><span data-id="pg003_n0019" class="toc-title">Chapter Three</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0020" class="toc-page">68</span></a></li>
+        <li><a class="toc-row toc-entry toc-link" href="pg055_sec001.html" aria-label="Open Weather, website page 68"><span data-id="pg003_n0021" class="toc-title">Weather</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0022" class="toc-page">68</span></a></li>
+        <li><a class="toc-row toc-major toc-chapter toc-link" href="pg078_sec001.html" aria-label="Open Chapter Four, website page 109"><span data-id="pg003_n0023" class="toc-title">Chapter Four</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0024" class="toc-page">109</span></a></li>
+        <li><a class="toc-row toc-entry toc-link" href="pg078_sec001.html" aria-label="Open The relationship between weather and production activities, website page 109"><span data-id="pg003_n0025" class="toc-title">The relationship between weather and production activities</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0026" class="toc-page">109</span></a></li>
+        <li><a class="toc-row toc-major toc-chapter toc-link" href="pg090_sec001.html" aria-label="Open Test, website page 131"><span data-id="pg003_n0027" class="toc-title">Test</span><span aria-hidden="true" class="toc-leader"></span><span data-id="pg003_n0028" class="toc-page">131</span></a></li>
       </ul>
     </div>
   </section>
