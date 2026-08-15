@@ -22,10 +22,6 @@
       .credits dt, .credits dd { margin: 0; }
       .signature { margin-top: 32px; line-height: 1.36; }
       .signature p { margin: 0; }
-      .book-footer { position: absolute; right: 48px; bottom: 0; left: 48px; height: 128px; background: #115e66; clip-path: polygon(0 24%, 50% 78%, 100% 24%, 100% 100%, 0 100%); }
-      .book-footer::before { content: ''; position: absolute; inset: 8px 0 auto; height: 9px; background: #f4e45f; clip-path: polygon(0 0, 50% 100%, 100% 0, 100% 100%, 0 100%); }
-      .page-number { position: absolute; z-index: 2; bottom: 0; left: 50%; display: flex; width: 78px; height: 90px; transform: translateX(-50%); align-items: flex-start; justify-content: center; border-radius: 40px 40px 0 0; background: linear-gradient(90deg, #a5f3fc, #34d399, #0f766e); padding-top: 21px; color: #155e75; font-size: 1.55rem; }
-      .page-number span { display: flex; width: 50px; height: 50px; align-items: center; justify-content: center; border: 3px solid rgba(15,118,110,.65); border-radius: 999px; background: #fff; }
       @media (max-width: 1024px) {
         .front-matter-page { min-height: 1180px; }
         .front-matter-page::before { left: 24px; width: 44px; }
@@ -45,9 +41,6 @@
         .ack-content > p { margin-bottom: 14px; }
         .credits { grid-template-columns: 88px 1fr; gap: 8px 9px; margin: 17px 0 19px; }
         .signature { margin-top: 19px; }
-        .book-footer { right: 16px; left: 16px; height: 78px; }
-        .page-number { width: 52px; height: 58px; padding-top: 10px; font-size: 1rem; }
-        .page-number span { width: 34px; height: 34px; }
       }
     </style>
 </head>
@@ -83,8 +76,6 @@
               </div>
             </div>
           </div>
-          <div class="book-footer" aria-hidden="true"></div>
-          <div class="page-number" aria-label="Page iv"><span aria-hidden="true">iv</span></div>
         </section>
       </div>
     </main>

@@ -22,10 +22,6 @@
       .contact-list { display: grid; grid-template-columns: 190px 1fr; gap: 8px 28px; margin: 46px 0 0; }
       .contact-list dt, .contact-list dd { margin: 0; }
       .rights { margin-top: 150px; font-size: 1.08rem; line-height: 1.55; }
-      .book-footer { position: absolute; right: 48px; bottom: 0; left: 48px; height: 128px; background: #115e66; clip-path: polygon(0 24%, 50% 78%, 100% 24%, 100% 100%, 0 100%); }
-      .book-footer::before { content: ''; position: absolute; inset: 8px 0 auto; height: 9px; background: #f4e45f; clip-path: polygon(0 0, 50% 100%, 100% 0, 100% 100%, 0 100%); }
-      .page-number { position: absolute; z-index: 2; bottom: 0; left: 50%; display: flex; width: 78px; height: 90px; transform: translateX(-50%); align-items: flex-start; justify-content: center; border-radius: 40px 40px 0 0; background: linear-gradient(90deg, #a5f3fc, #34d399, #0f766e); padding-top: 21px; color: #155e75; font-size: 1.55rem; }
-      .page-number span { display: flex; width: 50px; height: 50px; align-items: center; justify-content: center; border: 3px solid rgba(15,118,110,.65); border-radius: 999px; background: #fff; }
       @media (max-width: 1024px) {
         .front-matter-page { min-height: 1180px; }
         .front-matter-page::before { left: 24px; width: 44px; }
@@ -43,9 +39,6 @@
         .publication-block .spacer, .contact-list { margin-top: 28px; }
         .contact-list { grid-template-columns: 82px 1fr; gap: 7px 10px; }
         .rights { margin-top: 65px; }
-        .book-footer { right: 16px; left: 16px; height: 78px; }
-        .page-number { width: 52px; height: 58px; padding-top: 10px; font-size: 1rem; }
-        .page-number span { width: 34px; height: 34px; }
       }
     </style>
 </head>
@@ -78,8 +71,6 @@
               <p data-id="pg002_n0019" class="rights text-[18px] max-lg:text-[18px]">All rights reserved. No part of this textbook may be reproduced, stored in any retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior written permission from the Tanzania Institute of Education.</p>
             </div>
           </div>
-          <div class="book-footer" aria-hidden="true"></div>
-          <div class="page-number" aria-label="Page ii"><span aria-hidden="true">ii</span></div>
         </section>
       </div>
     </main>
