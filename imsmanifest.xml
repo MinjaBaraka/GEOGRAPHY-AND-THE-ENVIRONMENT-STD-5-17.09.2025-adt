@@ -17,6 +17,12 @@
       <file href="index.html" />
       <file href="assets/auto-fit.js" />
       <file href="assets/base.bundle.local.js" />
+      <file href="assets/reader-runtime.css" />
+      <file href="assets/mobile-sheet-drag.css" />
+      <file href="assets/mobile-sheet-drag.js" />
+      <file href="assets/media-playback-independence.js" />
+      <file href="assets/sign-language-video.css" />
+      <file href="assets/sign-language-video.js" />
       <file href="assets/base.bundle.min.js" />
       <file href="assets/base.bundle.min.js.map" />
       <file href="assets/config.json" />
