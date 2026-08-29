@@ -8,40 +8,34 @@
     <meta name="title-id" content="pg002_sec001" />
     <meta name="page-section-id" content="2" />
     <link href="./content/tailwind_output.css" rel="stylesheet">
-    <link href="./assets/reader-runtime.css" rel="stylesheet">
+    <link href="./assets/reader-runtime.css?v=12" rel="stylesheet">
     <link href="./assets/mobile-sheet-drag.css" rel="stylesheet">
     <link href="./assets/sign-language-video.css?v=reader-fixes-20260827-2" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible', 'Merriweather', sans-serif; }
-      .front-matter-page { position: relative; min-height: 1500px; overflow: hidden; background: #fff; color: #262626; }
-      .front-matter-page::before { content: ''; position: absolute; inset: 0 auto 0 38px; width: 54px; background: linear-gradient(90deg, rgba(207,250,254,.18), rgba(165,243,252,.72), rgba(207,250,254,.18)); }
-      .page-inner { position: relative; z-index: 1; width: min(920px, calc(100% - 250px)); margin: 0 auto; padding: 92px 0 220px; }
-      .page-title { width: fit-content; margin: 0 auto 64px; border-radius: 14px; background: #4fbda9; padding: 12px 76px; color: #fff; font-size: 1.25rem; font-weight: 700; line-height: 1; box-shadow: 0 5px 10px rgba(15,118,110,.16); }
-      .publication-block { font-size: 1.12rem; line-height: 1.55; }
+      .front-matter-page { position: relative; min-height: 1320px; overflow: hidden; background: #fff; color: #262626; }
+      .page-inner { width: min(960px, calc(100% - 120px)); margin: 0 auto; padding: 96px 0 160px; }
+      .publication-block { font-size: 1.125rem; line-height: 1.6; }
       .publication-block p { margin: 0; }
-      .publication-block .spacer { margin-top: 46px; }
-      .contact-list { display: grid; grid-template-columns: 190px 1fr; gap: 8px 28px; margin: 46px 0 0; }
+      .publication-block .spacer { margin-top: 52px; }
+      .contact-list { display: grid; grid-template-columns: 190px 1fr; gap: 8px 28px; margin: 52px 0 0; }
       .contact-list dt, .contact-list dd { margin: 0; }
-      .rights { margin-top: 150px; font-size: 1.08rem; line-height: 1.55; }
+      .rights { max-width: 900px; margin-top: 150px; font-size: 1.08rem; line-height: 1.6; }
       @media (max-width: 1024px) {
-        .front-matter-page { min-height: 1180px; }
-        .front-matter-page::before { left: 24px; width: 44px; }
-        .page-inner { width: min(760px, calc(100% - 160px)); padding-top: 70px; }
-        .page-title { margin-bottom: 48px; padding: 11px 58px; }
-        .publication-block, .rights { font-size: 1rem; }
+        .front-matter-page { min-height: 1120px; }
+        .page-inner { width: min(820px, calc(100% - 80px)); padding: 72px 0 130px; }
+        .publication-block, .rights { font-size: 1.05rem; }
         .rights { margin-top: 105px; }
       }
       @media (max-width: 640px) {
-        .front-matter-page { min-height: 980px; }
-        .front-matter-page::before { left: 10px; width: 25px; }
-        .page-inner { width: auto; margin: 0 48px; padding: 44px 0 150px; }
-        .page-title { margin-bottom: 38px; padding: 10px 34px; font-size: 1rem; }
-        .publication-block, .rights { font-size: .84rem; line-height: 1.5; }
-        .publication-block .spacer, .contact-list { margin-top: 28px; }
-        .contact-list { grid-template-columns: 82px 1fr; gap: 7px 10px; }
-        .rights { margin-top: 65px; }
+        .front-matter-page { min-height: 0; }
+        .page-inner { width: auto; margin: 0 24px; padding: 40px 0 110px; }
+        .publication-block, .rights { font-size: 1rem; line-height: 1.55; }
+        .publication-block .spacer, .contact-list { margin-top: 32px; }
+        .contact-list { grid-template-columns: 90px minmax(0, 1fr); gap: 7px 12px; overflow-wrap: anywhere; }
+        .rights { margin-top: 72px; }
       }
     </style>
 </head>
@@ -51,7 +45,6 @@
       <div id="content" class="mx-auto max-w-7xl bg-white opacity-0">
         <section data-section-type="foreword" data-section-id="pg002_sec001" class="front-matter-page">
           <div class="page-inner">
-            <h1 data-id="pg002_n0001" class="page-title">Copyright</h1>
             <div class="publication-block">
               <p data-id="pg002_n0002" class="text-[18px] max-lg:text-[18px]">© Tanzania Institute of Education 2025</p>
               <p data-id="pg002_n0003" class="text-[18px] max-lg:text-[18px]">Published 2025</p>
@@ -79,10 +72,11 @@
     </main>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/offline-preloader.js?v=12"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/media-playback-independence.js"></script>
-    <script src="./assets/base.bundle.local.js"></script>
+    <script src="./assets/voiceover-highlight.js?v=12"></script>
+    <script src="./assets/base.bundle.local.js?v=12"></script>
   <script src="./assets/mobile-sheet-drag.js"></script>
   <script src="./assets/sign-language-video.js?v=reader-fixes-20260827-2"></script>
 </body>

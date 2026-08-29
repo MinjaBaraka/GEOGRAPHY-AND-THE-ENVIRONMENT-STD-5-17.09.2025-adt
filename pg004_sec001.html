@@ -8,7 +8,7 @@
     <meta name="title-id" content="pg004_sec001" />
     <meta name="page-section-id" content="4" />
     <link href="./content/tailwind_output.css" rel="stylesheet">
-    <link href="./assets/reader-runtime.css" rel="stylesheet">
+    <link href="./assets/reader-runtime.css?v=12" rel="stylesheet">
     <link href="./assets/mobile-sheet-drag.css" rel="stylesheet">
     <link href="./assets/sign-language-video.css?v=reader-fixes-20260827-2" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
@@ -16,7 +16,6 @@
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible', 'Merriweather', sans-serif; }
       .front-matter-page { position: relative; min-height: 1500px; overflow: hidden; background: #fff; color: #262626; }
-      .front-matter-page::before { content: ''; position: absolute; inset: 0 auto 0 38px; width: 54px; background: linear-gradient(90deg, rgba(207,250,254,.18), rgba(165,243,252,.72), rgba(207,250,254,.18)); }
       .page-inner { position: relative; z-index: 1; width: min(980px, calc(100% - 230px)); margin: 0 auto; padding: 82px 0 210px; }
       .page-title { width: fit-content; margin: 0 auto 38px; border-radius: 14px; background: #4fbda9; padding: 12px 60px; color: #fff; font-size: 1.35rem; font-weight: 700; line-height: 1; box-shadow: 0 5px 10px rgba(15,118,110,.16); }
       .ack-content { font-size: 1.03rem; line-height: 1.48; }
@@ -27,7 +26,6 @@
       .signature p { margin: 0; }
       @media (max-width: 1024px) {
         .front-matter-page { min-height: 1180px; }
-        .front-matter-page::before { left: 24px; width: 44px; }
         .page-inner { width: min(800px, calc(100% - 150px)); padding-top: 62px; }
         .page-title { margin-bottom: 32px; padding: 11px 48px; }
         .ack-content { font-size: .91rem; line-height: 1.42; }
@@ -37,7 +35,6 @@
       }
       @media (max-width: 640px) {
         .front-matter-page { min-height: 1100px; }
-        .front-matter-page::before { left: 10px; width: 25px; }
         .page-inner { width: auto; margin: 0 45px; padding: 40px 0 135px; }
         .page-title { margin-bottom: 28px; padding: 10px 25px; font-size: 1rem; }
         .ack-content { font-size: .76rem; line-height: 1.4; }
@@ -73,6 +70,7 @@
               </dl>
               <p data-id="pg004_n0019" class="text-[18px] max-lg:text-[18px]">TIE also appreciates contributions from primary school teachers and pupils who participated in the trial phase of the textbook. Likewise, TIE would like to thank the Government of the United Republic of Tanzania for financing the writing and printing of this textbook.</p>
               <div class="signature" aria-label="Signed by the Director General">
+                <img src="images/pg004_signature.png" alt="" aria-hidden="true" class="mb-1 h-auto w-56 max-w-full object-contain max-sm:w-44">
                 <p data-id="pg004_n0021" class="text-[18px] max-lg:text-[18px]">Dr Aneth A. Komba</p>
                 <p data-id="pg004_n0022" class="text-[18px] max-lg:text-[18px]">Director General</p>
                 <p data-id="pg004_n0023" class="text-[18px] max-lg:text-[18px]">Tanzania Institute of Education</p>
@@ -84,10 +82,11 @@
     </main>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/offline-preloader.js?v=12"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/media-playback-independence.js"></script>
-    <script src="./assets/base.bundle.local.js"></script>
+    <script src="./assets/voiceover-highlight.js?v=12"></script>
+    <script src="./assets/base.bundle.local.js?v=12"></script>
   <script src="./assets/mobile-sheet-drag.js"></script>
   <script src="./assets/sign-language-video.js?v=reader-fixes-20260827-2"></script>
 </body>
