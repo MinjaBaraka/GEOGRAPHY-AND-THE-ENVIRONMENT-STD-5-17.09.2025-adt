@@ -668,6 +668,7 @@
       <file href="content/i18n/en-GB/audio/pg001_n0022.mp3" />
       <file href="content/i18n/en-GB/audio/pg001_n0023.mp3" />
       <file href="content/i18n/en-GB/audio/pg001_n0024.mp3" />
+      <file href="content/i18n/en-GB/audio/pg001_signature_description.mp3" />
       <file href="content/i18n/en-GB/audio/pg002_n0001_easy_read.mp3" />
       <file href="content/i18n/en-GB/audio/pg002_n0001.mp3" />
       <file href="content/i18n/en-GB/audio/pg002_n0002_easy_read.mp3" />
@@ -680,6 +681,8 @@
       <file href="content/i18n/en-GB/audio/pg002_n0006.mp3" />
       <file href="content/i18n/en-GB/audio/pg002_n0007_easy_read.mp3" />
       <file href="content/i18n/en-GB/audio/pg002_n0007.mp3" />
+      <file href="content/i18n/en-GB/audio/pg002_n0007_area_easy_read.mp3" />
+      <file href="content/i18n/en-GB/audio/pg002_n0007_area.mp3" />
       <file href="content/i18n/en-GB/audio/pg002_n0008_easy_read.mp3" />
       <file href="content/i18n/en-GB/audio/pg002_n0008.mp3" />
       <file href="content/i18n/en-GB/audio/pg002_n0009_easy_read.mp3" />
@@ -787,6 +790,8 @@
       <file href="content/i18n/en-GB/audio/pg004_n0022.mp3" />
       <file href="content/i18n/en-GB/audio/pg004_n0023_easy_read.mp3" />
       <file href="content/i18n/en-GB/audio/pg004_n0023.mp3" />
+      <file href="content/i18n/en-GB/audio/pg004_signature_description_easy_read.mp3" />
+      <file href="content/i18n/en-GB/audio/pg004_signature_description.mp3" />
       <file href="content/i18n/en-GB/audio/pg005_n0002_easy_read.mp3" />
       <file href="content/i18n/en-GB/audio/pg005_n0004_easy_read.mp3" />
       <file href="content/i18n/en-GB/audio/pg005_n0005_easy_read.mp3" />
