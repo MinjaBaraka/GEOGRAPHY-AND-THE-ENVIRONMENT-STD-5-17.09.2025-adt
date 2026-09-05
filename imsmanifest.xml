@@ -15,6 +15,7 @@
   <resources>
     <resource identifier="RESOURCE_1" type="webcontent" adlcp:scormtype="sco" href="index.html">
       <file href="index.html" />
+      <file href="pg001_sec001.html" />
       <file href="assets/auto-fit.js" />
       <file href="assets/base.bundle.local.js" />
       <file href="assets/reader-runtime.css" />
@@ -4830,14 +4831,16 @@
       <file href="content/i18n/en-GB/audio/pg092_n0060.mp3" />
       <file href="content/i18n/en-GB/audio/pg092_n0065_easy_read.mp3" />
       <file href="content/i18n/en-GB/audio/pg092_n0065.mp3" />
+      <file href="content/i18n/en-GB/audio/front_cover_image_description.mp3" />
+      <file href="content/i18n/en-GB/audio/front_cover_property_notice.mp3" />
       <file href="content/i18n/en-GB/audios.json" />
       <file href="content/i18n/en-GB/glossary.json" />
       <file href="content/i18n/en-GB/images.json" />
       <file href="content/i18n/en-GB/texts.json" />
       <file href="content/i18n/en-GB/timecode/timecode_output.json" />
       <file href="content/i18n/en-GB/video/page_1.mp4" />
-      <file href="content/i18n/en-GB/video/page_10.mp4" />
-      <file href="content/i18n/en-GB/video/page_100.mp4" />
+      <file href="content/i18n/en-GB/video/page_2.mp4" />
+      <file href="content/i18n/en-GB/video/page_11.mp4" />
       <file href="content/i18n/en-GB/video/page_101.mp4" />
       <file href="content/i18n/en-GB/video/page_102.mp4" />
       <file href="content/i18n/en-GB/video/page_103.mp4" />
@@ -4847,8 +4850,8 @@
       <file href="content/i18n/en-GB/video/page_107.mp4" />
       <file href="content/i18n/en-GB/video/page_108.mp4" />
       <file href="content/i18n/en-GB/video/page_109.mp4" />
-      <file href="content/i18n/en-GB/video/page_11.mp4" />
       <file href="content/i18n/en-GB/video/page_110.mp4" />
+      <file href="content/i18n/en-GB/video/page_12.mp4" />
       <file href="content/i18n/en-GB/video/page_111.mp4" />
       <file href="content/i18n/en-GB/video/page_112.mp4" />
       <file href="content/i18n/en-GB/video/page_113.mp4" />
@@ -4858,8 +4861,8 @@
       <file href="content/i18n/en-GB/video/page_117.mp4" />
       <file href="content/i18n/en-GB/video/page_118.mp4" />
       <file href="content/i18n/en-GB/video/page_119.mp4" />
-      <file href="content/i18n/en-GB/video/page_12.mp4" />
       <file href="content/i18n/en-GB/video/page_120.mp4" />
+      <file href="content/i18n/en-GB/video/page_13.mp4" />
       <file href="content/i18n/en-GB/video/page_121.mp4" />
       <file href="content/i18n/en-GB/video/page_122.mp4" />
       <file href="content/i18n/en-GB/video/page_123.mp4" />
@@ -4869,18 +4872,19 @@
       <file href="content/i18n/en-GB/video/page_127.mp4" />
       <file href="content/i18n/en-GB/video/page_128.mp4" />
       <file href="content/i18n/en-GB/video/page_129.mp4" />
-      <file href="content/i18n/en-GB/video/page_13.mp4" />
       <file href="content/i18n/en-GB/video/page_130.mp4" />
+      <file href="content/i18n/en-GB/video/page_14.mp4" />
       <file href="content/i18n/en-GB/video/page_131.mp4" />
       <file href="content/i18n/en-GB/video/page_132.mp4" />
-      <file href="content/i18n/en-GB/video/page_14.mp4" />
+      <file href="content/i18n/en-GB/video/page_133.mp4" />
+      <file href="content/i18n/en-GB/video/page_134.mp4" />
       <file href="content/i18n/en-GB/video/page_15.mp4" />
       <file href="content/i18n/en-GB/video/page_16.mp4" />
       <file href="content/i18n/en-GB/video/page_17.mp4" />
       <file href="content/i18n/en-GB/video/page_18.mp4" />
       <file href="content/i18n/en-GB/video/page_19.mp4" />
-      <file href="content/i18n/en-GB/video/page_2.mp4" />
       <file href="content/i18n/en-GB/video/page_20.mp4" />
+      <file href="content/i18n/en-GB/video/page_3.mp4" />
       <file href="content/i18n/en-GB/video/page_21.mp4" />
       <file href="content/i18n/en-GB/video/page_22.mp4" />
       <file href="content/i18n/en-GB/video/page_23.mp4" />
@@ -4890,8 +4894,8 @@
       <file href="content/i18n/en-GB/video/page_27.mp4" />
       <file href="content/i18n/en-GB/video/page_28.mp4" />
       <file href="content/i18n/en-GB/video/page_29.mp4" />
-      <file href="content/i18n/en-GB/video/page_3.mp4" />
       <file href="content/i18n/en-GB/video/page_30.mp4" />
+      <file href="content/i18n/en-GB/video/page_4.mp4" />
       <file href="content/i18n/en-GB/video/page_31.mp4" />
       <file href="content/i18n/en-GB/video/page_32.mp4" />
       <file href="content/i18n/en-GB/video/page_33.mp4" />
@@ -4901,8 +4905,8 @@
       <file href="content/i18n/en-GB/video/page_37.mp4" />
       <file href="content/i18n/en-GB/video/page_38.mp4" />
       <file href="content/i18n/en-GB/video/page_39.mp4" />
-      <file href="content/i18n/en-GB/video/page_4.mp4" />
       <file href="content/i18n/en-GB/video/page_40.mp4" />
+      <file href="content/i18n/en-GB/video/page_5.mp4" />
       <file href="content/i18n/en-GB/video/page_41.mp4" />
       <file href="content/i18n/en-GB/video/page_42.mp4" />
       <file href="content/i18n/en-GB/video/page_43.mp4" />
@@ -4912,8 +4916,8 @@
       <file href="content/i18n/en-GB/video/page_47.mp4" />
       <file href="content/i18n/en-GB/video/page_48.mp4" />
       <file href="content/i18n/en-GB/video/page_49.mp4" />
-      <file href="content/i18n/en-GB/video/page_5.mp4" />
       <file href="content/i18n/en-GB/video/page_50.mp4" />
+      <file href="content/i18n/en-GB/video/page_6.mp4" />
       <file href="content/i18n/en-GB/video/page_51.mp4" />
       <file href="content/i18n/en-GB/video/page_52.mp4" />
       <file href="content/i18n/en-GB/video/page_53.mp4" />
@@ -4933,8 +4937,8 @@
       <file href="content/i18n/en-GB/video/page_67.mp4" />
       <file href="content/i18n/en-GB/video/page_68.mp4" />
       <file href="content/i18n/en-GB/video/page_69.mp4" />
-      <file href="content/i18n/en-GB/video/page_7.mp4" />
       <file href="content/i18n/en-GB/video/page_70.mp4" />
+      <file href="content/i18n/en-GB/video/page_8.mp4" />
       <file href="content/i18n/en-GB/video/page_71.mp4" />
       <file href="content/i18n/en-GB/video/page_72.mp4" />
       <file href="content/i18n/en-GB/video/page_73.mp4" />
@@ -4944,8 +4948,8 @@
       <file href="content/i18n/en-GB/video/page_77.mp4" />
       <file href="content/i18n/en-GB/video/page_78.mp4" />
       <file href="content/i18n/en-GB/video/page_79.mp4" />
-      <file href="content/i18n/en-GB/video/page_8.mp4" />
       <file href="content/i18n/en-GB/video/page_80.mp4" />
+      <file href="content/i18n/en-GB/video/page_9.mp4" />
       <file href="content/i18n/en-GB/video/page_81.mp4" />
       <file href="content/i18n/en-GB/video/page_82.mp4" />
       <file href="content/i18n/en-GB/video/page_83.mp4" />
@@ -4955,8 +4959,8 @@
       <file href="content/i18n/en-GB/video/page_87.mp4" />
       <file href="content/i18n/en-GB/video/page_88.mp4" />
       <file href="content/i18n/en-GB/video/page_89.mp4" />
-      <file href="content/i18n/en-GB/video/page_9.mp4" />
       <file href="content/i18n/en-GB/video/page_90.mp4" />
+      <file href="content/i18n/en-GB/video/page_10.mp4" />
       <file href="content/i18n/en-GB/video/page_91.mp4" />
       <file href="content/i18n/en-GB/video/page_92.mp4" />
       <file href="content/i18n/en-GB/video/page_93.mp4" />
@@ -4966,12 +4970,15 @@
       <file href="content/i18n/en-GB/video/page_97.mp4" />
       <file href="content/i18n/en-GB/video/page_98.mp4" />
       <file href="content/i18n/en-GB/video/page_99.mp4" />
+      <file href="content/i18n/en-GB/video/page_100.mp4" />
       <file href="content/i18n/en-GB/videos.json" />
       <file href="content/navigation/nav.html" />
       <file href="content/pages.json" />
       <file href="content/tailwind_output.css" />
       <file href="content/toc.json" />
       <file href="cover.png" />
+      <file href="images/back-cover.jpg" />
+      <file href="images/front-cover.jpg" />
       <file href="images/activity_icon_reading.png" />
       <file href="images/activity_icon_writing.png" />
       <file href="images/pg001_im001.jpg" />
@@ -5162,6 +5169,7 @@
       <file href="pg091_sec001.html" />
       <file href="pg092_sec001.html" />
       <file href="pg092_sec002.html" />
+      <file href="pg092_sec003.html" />
       <file href="content/i18n/en-GB/audio/pg001_n0003.mp3" />
       <file href="content/i18n/en-GB/audio/pg001_n0006.mp3" />
       <file href="content/i18n/en-GB/audio/pg005_im001.mp3" />
@@ -5295,6 +5303,8 @@
       <file href="content/i18n/en-GB/audio/pg028_table_row_24_easy_read.mp3" />
       <file href="content/i18n/en-GB/audio/pg028_table_row_25.mp3" />
       <file href="content/i18n/en-GB/audio/pg028_table_row_25_easy_read.mp3" />
+      <file href="content/i18n/en-GB/audio/back_cover_image_description.mp3" />
+      <file href="content/i18n/en-GB/audio/back_cover_property_notice.mp3" />
     </resource>
   </resources>
 </manifest>

@@ -4972,5 +4972,9 @@
   "pg028_table_row_24": "pg028_table_row_24.mp3",
   "pg028_table_row_24_easy_read": "pg028_table_row_24_easy_read.mp3",
   "pg028_table_row_25": "pg028_table_row_25.mp3",
-  "pg028_table_row_25_easy_read": "pg028_table_row_25_easy_read.mp3"
+  "pg028_table_row_25_easy_read": "pg028_table_row_25_easy_read.mp3",
+  "front_cover_image_description": "front_cover_image_description.mp3",
+  "front_cover_property_notice": "front_cover_property_notice.mp3",
+  "back_cover_image_description": "back_cover_image_description.mp3",
+  "back_cover_property_notice": "back_cover_property_notice.mp3"
 }

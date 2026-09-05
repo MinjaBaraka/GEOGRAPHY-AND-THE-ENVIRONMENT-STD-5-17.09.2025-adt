@@ -4,7 +4,7 @@
   "video-3": "page_3.mp4",
   "video-4": "page_4.mp4",
   "video-5": "page_5.mp4",
-  "video-7": "page_7.mp4",
+  "video-6": "page_6.mp4",
   "video-8": "page_8.mp4",
   "video-9": "page_9.mp4",
   "video-10": "page_10.mp4",
@@ -129,5 +129,7 @@
   "video-129": "page_129.mp4",
   "video-130": "page_130.mp4",
   "video-131": "page_131.mp4",
-  "video-132": "page_132.mp4"
+  "video-132": "page_132.mp4",
+  "video-133": "page_133.mp4",
+  "video-134": "page_134.mp4"
 }
